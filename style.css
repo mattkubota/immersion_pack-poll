@@ -4,32 +4,23 @@ body {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: yellow;
+  background-color: #FAFAFA;
 }
 
-.column {
-  float:left;
+.card {
+  color: #FFF;
+  border-radius: 25px;
+  width: 1580px;
+  height: 1754px;
+  box-shadow: 0px 12px 50px rgba(0,0,0,0.2);
+  margin-top: 360px;
+  margin-left: 99px;
+  display: inline-block;
 }
 
-.tile {
-  border: 2px solid red;
-  background-color: blue;
-  width: 421px;
-  height: 315px;
-  margin-left: 1px;
-  margin-bottom: 1px;
-}
-
-#column-1 .tile {
-  width: 420px;
-}
-
-#column-2 .tile {
-  border-color: green;
-  background-color: purple;
-}
-
-#column-8 .tile {
-  border-color: green;
-  background-color: orange;
+p {
+  font-family: sans-serif;
+  color: #000;
+  font-size: 50px;
+  line-height: 68px;
 }
