@@ -7,8 +7,35 @@ body {
   background-color: #FAFAFA;
 }
 
+.logo {
+  position: absolute;
+  margin-left: 99px;
+  margin-top: 130px;
+  width: 650px;
+}
+
+.mission {
+  position: absolute;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  color: #777;
+  font-size: 50px;
+  margin-left: 890px;
+  margin-top: 156px;
+}
+
+.info {
+  position: absolute;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  color: #777;
+  font-size: 50px;
+  margin-left: 6120px;
+  margin-top: 156px;
+}
+
 .card {
-  color: #FFF;
+  background-color: #FFF;
   border-radius: 25px;
   width: 1580px;
   height: 1754px;
@@ -16,11 +43,61 @@ body {
   margin-top: 360px;
   margin-left: 99px;
   display: inline-block;
+  vertical-align: top;
 }
 
-p {
-  font-family: sans-serif;
-  color: #000;
+.visual {
+  width: 1330px;
+  margin-left: 125px;
+  margin-top: 75px;
+}
+
+.title {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 600;
+  color: #505050;
+  font-size: 55px;
+  margin-top: 50px;
+  margin-left: 75px;
+  line-height: 83px;
+  width: 1430px;
+}
+
+.text {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  color: #777;
   font-size: 50px;
+  line-height: 70px;
+  margin-top: 40px;
+  margin-left: 75px;
+  width: 1430px;
+}
+
+.link {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  color: #696969;
+  font-size: 30px;
   line-height: 68px;
+  margin-left: 75px;
+  position: fixed;
+  top: 2010px;
+}
+
+.author-container {
+  position: fixed;
+  margin-left: 905px;
+  top: 2010px;
+  width: 600px;
+}
+
+.author {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  color: #696969;
+  font-size: 30px;
+  line-height: 68px;
+  top: 2010px;
+  text-align: right;
 }
