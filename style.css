@@ -16,8 +16,8 @@ body {
 
 .mission {
   position: absolute;
-  font-family: 'Roboto', sans-serif;
-  font-weight: 300;
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
   color: #777;
   font-size: 50px;
   margin-left: 890px;
@@ -26,8 +26,8 @@ body {
 
 .info {
   position: absolute;
-  font-family: 'Roboto', sans-serif;
-  font-weight: 300;
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
   color: #777;
   font-size: 50px;
   margin-left: 6120px;
@@ -41,14 +41,18 @@ body {
   height: 1754px;
   box-shadow: 0px 12px 50px rgba(0,0,0,0.2);
   margin-top: 360px;
-  margin-left: 99px;
+  margin-left: 122px;
   display: inline-block;
   vertical-align: top;
 }
 
+#card-1 {
+  margin-left: 61px;
+}
+
 .title {
-  font-family: 'Roboto', sans-serif;
-  font-weight: 500;
+  font-family: 'Lato', sans-serif;
+  font-weight: 700;
   color: #505050;
   font-size: 55px;
   margin-top: 75px;
@@ -68,7 +72,7 @@ body {
 }
 
 .text {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Lato', sans-serif;
   font-weight: 300;
   color: #777;
   font-size: 50px;
@@ -80,7 +84,7 @@ body {
 }
 
 .link {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Lato', sans-serif;
   font-weight: 300;
   color: #696969;
   font-size: 30px;
@@ -98,7 +102,7 @@ body {
 }
 
 .author {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Lato', sans-serif;
   font-weight: 300;
   color: #696969;
   font-size: 30px;
