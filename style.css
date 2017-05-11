@@ -4,7 +4,7 @@ body {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #FAFAFA;
+  background-color: #e8e8e8;
 }
 
 .logo {
@@ -35,7 +35,7 @@ body {
 }
 
 .card {
-  background-color: #e8e8e8;
+  background-color: #FFF;
   border-radius: 25px;
   width: 1580px;
   height: 1754px;
